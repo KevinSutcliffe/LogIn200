@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\bin\Debug\LoginMP.exe.config
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\bin\Debug\LoginMP.exe
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\bin\Debug\LoginMP.pdb
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.LoginMP.resources
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.Properties.Resources.resources
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.exe
+C:\Users\Kevin\source\repos\KevinSutcliffe-CW\LogIn200\LoginMP\obj\Debug\LoginMP.pdb
